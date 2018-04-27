@@ -5,7 +5,6 @@ author: Mathew Sachin
 exclude: ["Gemfile", "Gemfile.lock", "README.md"]
 
 accounts:
-  gitter: "MathewSachin/Screna"
   github: "MathewSachin/Captura"
   google-analytics: "UA-70778035-3"
 
